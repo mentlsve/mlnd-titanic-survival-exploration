@@ -1,2 +1,2 @@
 # titanic_survival_exploration
-MLND titanic_survival_exploration project
+My submission of the titanic_survival_exploration project for the Udacity Machine Learning Engineer Nanodegree.
